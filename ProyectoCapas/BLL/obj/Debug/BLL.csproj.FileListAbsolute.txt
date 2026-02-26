@@ -1,0 +1,11 @@
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\BLL.dll
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\BLL.pdb
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\DAL.dll
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\Entity.dll
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\DAL.pdb
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\bin\Debug\Entity.pdb
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\obj\Debug\BLL.dll
+C:\Users\bruni\source\repos\ProyectoCapas\BLL\obj\Debug\BLL.pdb

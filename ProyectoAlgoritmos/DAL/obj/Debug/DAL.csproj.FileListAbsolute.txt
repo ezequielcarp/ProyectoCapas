@@ -1,0 +1,9 @@
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\bin\Debug\DAL.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\bin\Debug\DAL.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\bin\Debug\Entity.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\bin\Debug\Entity.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\obj\Debug\DAL.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\DAL\obj\Debug\DAL.pdb

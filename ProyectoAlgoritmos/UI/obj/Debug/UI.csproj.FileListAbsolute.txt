@@ -1,0 +1,16 @@
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\UI.exe.config
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\UI.exe
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\UI.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\BLL.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\Entity.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\DAL.dll
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\BLL.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\Entity.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\bin\Debug\DAL.pdb
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.exe
+C:\Users\bruni\source\repos\ProyectoAlgoritmos\UI\obj\Debug\UI.pdb

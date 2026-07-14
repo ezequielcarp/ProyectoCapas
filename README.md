@@ -1,4 +1,4 @@
-Final de Algorimos y Bases de datos II
+Final de Algorimos y Estructuras de datos II
 
 ProyectoAlgoritmos es compatible con versiones anteriores de Visual Studio 2022
 
